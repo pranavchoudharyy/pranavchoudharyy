@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi there, I'm Pranav Choudhary!
 
-<!--
-**pranavchoudharyy/pranavchoudharyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Data Specialist @AXAXL 
 
-Here are some ideas to get you started:
+I'm a passionate Data Specialist based in Dehradun, India, with a talent for extracting insights, optimizing data pipelines, and turning raw data into meaningful stories. With a strong foundation in both analytics and software development, I thrive at the intersection of data and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Technologies
+
+- **SQL** – Advanced data querying & manipulation
+- **Python** – Data analysis, automation, and scripting
+- **Power BI** – Interactive dashboards & visualizations
+- **Excel** – Data crunching, modeling, and reporting
+- **.NET** – Application development & integration
+- **Quickbase** – Expert Builder for low-code solutions
+
+---
+
+### 🚀 Favorite Project
+
+#### Human Detection in Low Light Areas
+Developed a robust solution for detecting human presence in challenging, low-light environments—leveraging advanced algorithms and data processing techniques to enhance security and safety.
+
+---
+
+### 🏆 Highlights
+
+- **Infosys Certified Dot Net Developer**
+- **UPES'21 Graduate**
+- **Quickbase Expert Builder**
+
+---
+
+### 📊 GitHub Stats
+
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavchoudharyy&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavchoudharyy&layout=compact)
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavchoudharyy/)
+✉️ [pranavchoudharyy@gmail.com](mailto:pranavchoudharyy@gmail.com)
+
+---
+
+> **"Transforming data into actionable insights is my superpower."**
+
+---
