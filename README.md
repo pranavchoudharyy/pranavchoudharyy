@@ -1,19 +1,19 @@
-# Welcome!
-
 <!-- Banner or cover image -->
 <!-- <img src="https://github.com/pranavchoudharyy/pranavchoudharyy/assets/your-banner-image" alt="banner" width="100%" style="border-radius:10px; margin-bottom:16px;"/> -->
+
+
+
+### 🎉 Welcome to my GitHub profile!
+
+I'm **Pranav Choudhary** — a passionate data specialist, a quick learner, and an innovator in analytics and automation. Here you'll find my journey through data engineering, business intelligence, and solution building. Whether you’re here to collaborate, get inspired, or just browsing, feel free to explore my projects, connect, or reach out—let’s turn data into impact!
+
+---
 
 ---
 
 ## 💼 Data Specialist @AXAXL
 
 > _"Transforming data into actionable insights is my superpower."_
-
----
-
-### 🎉 Welcome to my GitHub profile!
-
-I'm **Pranav Choudhary** — a passionate data specialist, a quick learner, and an innovator in analytics and automation. Here you'll find my journey through data engineering, business intelligence, and solution building. Whether you’re here to collaborate, get inspired, or just browsing, feel free to explore my projects, connect, or reach out—let’s turn data into impact!
 
 ---
 
